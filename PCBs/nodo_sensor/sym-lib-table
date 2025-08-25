@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp32-s3-devkitc")(type "KiCad")(uri "${KIPRJMOD}/Libreria_Simbolos/esp32-s3-devkitc.kicad_sym")(options "")(descr ""))
+  (lib (name "libreria_simbolos")(type "KiCad")(uri "${KIPRJMOD}/libreria_simbolos.kicad_sym")(options "")(descr ""))
+  (lib (name "U_FL-R-SMT-1_10_")(type "KiCad")(uri "C:/Users/mario/workspace_pcb/UFL/U_FL-R-SMT-1_10_.kicad_sym")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "C:/Users/mario/workspace_pcb/espressif-kicad-addon/symbols/Espressif.kicad_sym")(options "")(descr ""))
+)
