@@ -1,11 +1,5 @@
 # TFG_MMP_SistemasElectrónicos
 Este repositorio fue creado como complemento de mi TFG para compartir:
-- Funcionalidades implementadas.
-- Documentación técnica de desarrollo.
-- Artefactos clave del diseño electrónico.
----
-
-##  Contenido Detallado
 
 ### 1. **Firmware/**
 Contiene el código fuente desarrollado:
